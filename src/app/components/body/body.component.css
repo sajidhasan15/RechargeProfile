@@ -1,0 +1,65 @@
+.container{
+    margin-top: 30px;
+    margin-left: 1px;
+    margin-right: 1px;
+    box-sizing: border-box;
+    border-radius: 3px solid rgb(43, 42, 42);
+    /* background-color: #ecf0f1; */
+    background-image: url("../../../assets/bg1.jpg");
+    /* opacity: 0.5; */
+}
+.box{
+    padding: 2rem;
+    font-weight: bold;
+}
+
+.grid-container {
+    margin-top: 30px;
+    margin-left: 1px;
+    margin-right: 1px;
+    box-sizing: border-box;
+    display: grid;
+    border-radius: 3px solid rgb(43, 42, 42);
+    grid-template-columns: auto auto auto auto;
+    /* grid-gap: 10px; */
+    /* background-color: #ecf0f1; */
+    /* padding: 10px; */
+  }
+  
+  /* .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: left;
+    font-size: 30px;
+  } */
+
+  a{
+    color: #CCE7FA;
+  }
+  .nameData{
+    color: #4B60BD;
+  }
+  .new{
+    background-color: #CCE7FA;
+  }
+  .pra{
+    background-color: #9ED4CF;
+  }
+  .head{
+    background-color: #E3E3B1;
+  }
+  .head1{
+    background-color: #D7BFE1;
+  }
+  .head2{
+    background-color: #ECDDF2;
+  }
+  .grant{
+    background-color: #EBEBEB;
+  }
+  .receivable{
+    background-color: #83B66C;
+  }
+  .name{
+    color: #239C91;
+}
